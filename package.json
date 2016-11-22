@@ -1,0 +1,12 @@
+{
+  "name": "leap_three",
+  "version": "1.0.1",
+  "description": "Leap integration with Three",
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:marcelovani/Leap-Three-Camera-Controls.git"
+  },
+  "dependencies": {
+    "leapjs": "^0.6.4"
+  }
+}
